@@ -31,7 +31,7 @@ function Login() {
   .then((response) => {
     if (response.data.authenticated) {
       console.log('User authenticated!');
-      window.location.replace('/');
+      window.location.replace('/home');
     } else {
       alert('Invalid username or password. Please try again.');
     }

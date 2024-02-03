@@ -12,7 +12,7 @@ function App() {
     <Router>
       <div>
         <Routes>
-          <Route path="/login" element={
+          <Route path="/" element={
             <div>
                 <Login />
                 <Footer />
@@ -29,7 +29,7 @@ function App() {
           /> 
 
           <Route
-            path="/"
+            path="/home"
             element={
               <div>
                 <Header />
