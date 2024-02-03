@@ -2,7 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Home Page](./images/home.png)
+This is the first landing page and other pages like home and signup pages are created using react-routes
+
+![Login Page](./images/login.png)
+
+![Sign Up Page](./images/signup.png)
+
+![Home Page](./images/home1.png)
+
+![List Page](./images/home.png)
 
 ## Available Scripts
 
