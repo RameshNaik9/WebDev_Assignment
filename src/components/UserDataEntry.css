@@ -1,0 +1,42 @@
+.user-data-entry-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.user-data-entry-label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.user-data-entry-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.user-data-entry-buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 16px;
+}
+
+.user-data-entry-button {
+    margin-left: 8px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+
+.user-data-entry-button:hover {
+    background-color: #0056b3;
+}
